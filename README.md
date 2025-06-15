@@ -1,23 +1,7 @@
 # I'm Fujiwara Yuta.
 
 
-<details>
-  <summary>languages</summary>
-  
-  
-  ## Kotlin
-  
-  Jetpack Compose
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,py,cpp,ruby,rails,raspberrypi,linux)](https://skillicons.dev)
 
 
-  ## Python
-  
-
-
-  ## Ruby
-
-  
-</details>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yf-1229)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yf-1229)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yf-1229)](https://github.com/anuraghazra/github-readme-stats)
